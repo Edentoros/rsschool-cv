@@ -14,7 +14,7 @@
 * GIT
 * Figma, Photoshop
 
-## Portfolio(https://dmitriiguliaev.netlify.app/)
+## Portfolio: https://dmitriiguliaev.netlify.app/
 
 (work in progress)
 
