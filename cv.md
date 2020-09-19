@@ -26,4 +26,5 @@
 ### **Estimated English level:**
 
 #### **C2** (Near-native level). 
-Have worked both as a translator/interpreter and an English teacher in Hong Kong. Also, I've got pretty decent (*C1*) knowledge of **German language** and a little bit of conversational Mandarin Chinese. 
+Have worked as a translator/interpreter and an English teacher in Hong Kong. 
+Also, I've got pretty decent (*C1*) knowledge of **German language** and a little bit of conversational Mandarin Chinese. 
