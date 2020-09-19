@@ -15,7 +15,7 @@
 
 ### **Portfolio**
 
-## https://dmitriiguliaev.netlify.app/   
+## [https://dmitriiguliaev.netlify.app/]   
 
 (work in progress)
 
