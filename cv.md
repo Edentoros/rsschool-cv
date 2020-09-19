@@ -1,6 +1,7 @@
 # Dmitrii Guliaev
 
-## dmitriiguliaev@gmail.com
+## E:mail: dmitriiguliaev@gmail.com
+## Telegram: https://t.me/dimkabog
 
 ### **I am an enthusiastic worker with good organisation skills and the ability to perform professionally and confidently both within a team and as an individual. I am a trustworthy and self-motivated person and have the ability to meet targets effectively. I have excellent communication skills which have progressed throughout my previous experiences, resulting in my capability of communicating well with people of varied ages and backgrounds.**
 
@@ -13,9 +14,7 @@
 * GIT
 * Figma, Photoshop
 
-## **Portfolio**
-
-## [https://dmitriiguliaev.netlify.app/]   
+## Portfolio(https://dmitriiguliaev.netlify.app/)
 
 (work in progress)
 
