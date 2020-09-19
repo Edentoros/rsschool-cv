@@ -1,1 +1,1 @@
-https://edentoros.io/rsschool-cv/cv
+https://edentoros.github.io/rsschool-cv/cv
