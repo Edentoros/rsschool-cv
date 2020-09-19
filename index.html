@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dmitrii Guliaev CV</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat&family=Tenor+Sans&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      html,
+      body {
+        margin: 0 auto;
+        max-width: 1200px;
+      }
+      .header {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        max-width: 1200px;
+        font-family: "Montserrat", sans-serif;
+        font-size: 40px;
+              }
+      h4 {
+          padding: 0;
+          margin: 0;
+      }
+      .main {
+        border-top: 3px solid black;
+        padding: 25px 20px;
+      }
+      .main__content {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .main__pic {
+        max-width: 400px;
+        border-radius: 100px 0px 100px 0px;
+      }
+      .main__text {
+        font-family: "Tenor Sans", sans-serif;
+        font-size: 20px;
+        margin-left: 25px;
+      }
+      .main__summary {
+        font-family: "Tenor Sans", sans-serif;
+        font-size: 35px;
+        margin-left: 25px;
+      }
+      .title {
+        font-family: "Tenor Sans", sans-serif;
+        font-size: 45px;
+        font-weight: 700;
+        margin-left: 20px;
+      }
+      .main__description {
+        display: flex;
+        max-width: 1200px;
+        margin: 10px auto 0 auto;
+        justify-content: space-between;
+        border-top: 3px solid black;
+      }
+      .main__experience {
+        max-width: 50%;
+        border-left: 3px solid black;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header class="header">
+      <h4 class="header__title title">Frontend Developer</h3>
+      <h4 class="header__title title">Dmitrii Guliaev</h3>
+    </header>
+    <main class="main">
+      <section class="main__content">
+        <img
+          class="main__pic"
+          src="https://github.com/Edentoros/rsschool-cv/blob/rsschool-cv-html/dmitrii.JPG?raw=true"
+          alt="PIC"
+        />
+        <p class="main__summary">
+          I am an enthusiastic worker with good organisation skills and the
+          ability to perform professionally and confidently both within a team
+          and as an individual. I am a trustworthy and self-motivated person and
+          have the ability to meet targets effectively. I have excellent
+          communication skills which have progressed throughout my previous
+          experiences, resulting in my capability of communicating well with
+          people of varied ages and backgrounds.
+        </p>
+      </section>
+      <section class="main__description">
+        <article class="main__prof">
+          <h3 class="title">Education</h3>
+          <p class="main__text">
+            <em>09/2012 – 06/2017</em><br />
+            <b>BA in English and German education studies</b><br />
+            Volgograd State Pedagogical University.
+          </p>
+          <h3 class="title">Skills</h3>
+          <ul class="main__skills">
+            <li><p class="main__text">HTML</p></li>
+            <li><p class="main__text">CSS (Sass)</p></li>
+            <li><p class="main__text">JavaScript (ReactJS, jQuery)</p></li>
+            <li><p class="main__text">GIT</p></li>
+            <li><p class="main__text">BEM Methodology</p></li>
+            <li><p class="main__text">English knowledge (C2)</p></li>
+            <li><p class="main__text">German knowledge (C1)</p></li>
+          </ul>
+        </article>
+        <article class="main__experience">
+          <h3 class="title">Experience</h3>
+          <p class="main__text">
+            <em>06/2017 – present</em>,<br />
+            <b>Freelance translator and interpreter at Kwork.ru, remote </b
+            ><br />
+            Translating websites, articles and other texts from/into
+            Russian/English/German.
+          </p>
+          <p class="main__text">
+            <em>09/2017 – 01/2020</em>,<br />
+            <b>full-time English Teacher, NXY EDU Kindergarten, China</b><br />
+            Responsible for a class of 20-30 students aged 2-6 years old, lead
+            effective English classes to introduce and improve on English
+            language.
+          </p>
+          <p class="main__text">
+            <em>02/2016 – 08/2017</em>,<br />
+            <b>Call-center specialist, BestWaren GmbH., Russia</b><br />
+            Translating and interpreting for a European online-shop (German and
+            English languages). Duties: consulting with clients over telephone
+            following up on orders, providing high quality customer service.
+          </p>
+          <p class="main__text">
+            <em>01/2015 – 02/2016</em>,<br />
+            <b>English-Russian Interpreter/Translator, Lukoil, Russia</b><br />
+            Communicating between team members from Spain, Russia, Italy,
+            France, Germany and Turkey. Responsible for completing daily
+            reports.
+          </p>
+        </article>
+      </section>
+    </main>
+    <footer class="footer"></footer>
+  </body>
+</html>
