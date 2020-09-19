@@ -15,7 +15,9 @@
 
 ### **Portfolio**
 
-## https://dmitriiguliaev.netlify.app/
+## https://dmitriiguliaev.netlify.app/   
+
+(work in progress)
 
 ### **Education:**
 
@@ -23,4 +25,5 @@
 
 ### **Estimated English level:**
 
-#### **C2** (Near-native level). Have worked both as a translator/interpreter and an English teacher in Hong Kong. Also, I've got pretty decent (*C1*) knowledge of **German language** and a little bit of conversational Mandarin Chinese. 
+#### **C2** (Near-native level). 
+Have worked both as a translator/interpreter and an English teacher in Hong Kong. Also, I've got pretty decent (*C1*) knowledge of **German language** and a little bit of conversational Mandarin Chinese. 
